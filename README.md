@@ -44,7 +44,7 @@ Successful professionals demonstrate these key traits:
 
 *Example*: If a meeting is scheduled for 2:00 PM, arrive by 1:55 PM to allow time for setup and greeting.
 
-**Organization**
+**Organisation**
 - Have necessary materials ready
 - Maintain orderly workspace and files
 - Plan ahead for meetings and presentations
@@ -65,13 +65,13 @@ Successful professionals demonstrate these key traits:
 - Maintain composure under pressure
 
 **Loyalty**
-- Never criticize your company publicly
-- Support organizational decisions
+- Never criticise your company publicly
+- Support organisational decisions
 - Maintain confidentiality
 
 **Empathy**
 - Consider others' perspectives
-- Prioritize client needs
+- Prioritise client needs
 - Show understanding in difficult situations
 
 **Clear Communication**
@@ -98,7 +98,7 @@ Your digital footprint represents you and your company 24/7, whether you're work
 
 ### LinkedIn Profile Best Practices
 
-**Profile Optimization**
+**Profile Optimisation**
 - Use a professional headshot with good lighting
 - Write clear, engaging descriptions of your role
 - Start each bullet point with an action verb
@@ -132,7 +132,7 @@ Your digital footprint represents you and your company 24/7, whether you're work
 - Face the audience at all times
 - Use purposeful movement and gestures
 - Maintain active but controlled hand movements
-- Utilize visual aids effectively without distraction
+- Utilise visual aids effectively without distraction
 
 **Preparation Strategies**
 - Practice your presentation at least three times
@@ -185,7 +185,7 @@ Your digital footprint represents you and your company 24/7, whether you're work
 - Preconceived notions about the speaker
 - Stress or anxiety
 
-*Strategy*: Identify these barriers early and take steps to minimize their impact on communication effectiveness.
+*Strategy*: Identify these barriers early and take steps to minimise their impact on communication effectiveness.
 
 ---
 
@@ -243,7 +243,7 @@ Remember: Sent does not mean received, opened, read, or understood.
 **Meeting Etiquette**
 - Mute microphones when not speaking
 - Arrive early to address technical issues
-- Minimize distractions and background noise
+- Minimise distractions and background noise
 - Test all links and shared materials beforehand
 
 ---
@@ -350,7 +350,7 @@ Remember: Sent does not mean received, opened, read, or understood.
 
 **Subject Line Excellence**
 - Always include descriptive subject lines
-- Capitalize first letter of each word
+- Capitalise first letter of each word
 - Be specific about the email's purpose
 - *Example*: "Budget Proposal Due Date Extension Request"
 
@@ -425,7 +425,7 @@ Remember: Sent does not mean received, opened, read, or understood.
 - Practice timing to avoid rushed delivery
 - Prepare for technical difficulties
 
-### Data Visualization
+### Data Visualisation
 
 **Chart Types and Uses**
 - **Pie Chart**: Show percentages of a whole (100%)
@@ -480,7 +480,7 @@ Remember: Sent does not mean received, opened, read, or understood.
 - **Audience**: Right people for the message
 
 **Context Errors to Avoid**
-- Criticizing someone publicly
+- Criticising someone publicly
 - Discussing personal matters at inappropriate times
 - Bringing up sensitive topics without consideration
 
@@ -498,7 +498,7 @@ Remember: Sent does not mean received, opened, read, or understood.
 - Maintain courtesy and professionalism
 - Answer all questions thoroughly
 - Provide additional resources when helpful
-- Never criticize your company publicly
+- Never criticise your company publicly
 
 **The 5 C's of Communication**
 1. **Clear**: Easy to understand
@@ -574,7 +574,7 @@ Remember: Sent does not mean received, opened, read, or understood.
 - **Show Empathy**: Put yourself in their position
 - **Use Hold Time**: Allow both parties to think and calm down
 - **Express Gratitude**: Thank them for their patience
-- **Use Names**: Personalize the interaction
+- **Use Names**: Personalise the interaction
 
 *Example*: "I understand your frustration with the delayed delivery, Mr. Johnson. Let me put you on hold for just a moment while I check what options we have to resolve this for you. Thank you for your patience."
 
@@ -615,13 +615,13 @@ Remember: Sent does not mean received, opened, read, or understood.
 
 **Feedback**: Response or reaction to communication
 
-**Hierarchy**: Organizational structure showing levels of authority and responsibility
+**Hierarchy**: Organisational structure showing levels of authority and responsibility
 
 **Infographic**: Visual representation of information combining text and graphics
 
-**Jargon**: Specialized terminology used in specific industries or groups
+**Jargon**: Specialised terminology used in specific industries or groups
 
-**Lateral Communication**: Communication between peers at the same organizational level
+**Lateral Communication**: Communication between peers at the same organisational level
 
 **Logos**: Persuasion through logic and reasoning
 
@@ -637,7 +637,7 @@ Remember: Sent does not mean received, opened, read, or understood.
 
 **Rapport**: Harmonious relationship with mutual understanding
 
-**Stakeholder**: Person or group with interest in or influence on an organization
+**Stakeholder**: Person or group with interest in or influence on an organisation
 
 **Trademark**: Distinctive sign or symbol identifying products or services
 
